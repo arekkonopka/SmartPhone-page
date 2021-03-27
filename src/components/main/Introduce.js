@@ -15,7 +15,7 @@ const Introduce = () => {
   }, [])
 
   let rot = scroll < 360 ? scroll : 360
-  let translate = scroll < 380 ? scroll : 380
+  let translate = scroll < 420 ? scroll : 420
 
 
 
@@ -25,7 +25,7 @@ const Introduce = () => {
       <h2>Finezja wykonania</h2>
       <img src={phone} alt="phone image"
         style={{
-          transform: `translate(${translate * 0.9}px, ${-translate * 0.5}px) rotateY(${rot * 0.5}deg)`
+          transform: `translate(${translate * 1.6}px, ${-translate * 0.5}px) rotateY(${rot * 0.5}deg)`
         }} />
     </div>
   )

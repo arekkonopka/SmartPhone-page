@@ -1,14 +1,31 @@
 .video
   height: 100vh
   overflow: hidden
+  z-index: 1
   position: relative
+  top: 150vh
   .videoPlay
     width: 100%
-    z-index: 0
   h1
     position: absolute
-    top: calc(50% - 10%)
-    left: 0
-    color: white
+    top: calc(50% - 50px)
+    width: 100%
+    text-align: center
+    color: #ddd8d8
     z-index: 1
     font-size: 100px
+  .play
+    display: flex
+    justify-content: center
+    align-items: center
+    position: absolute
+    bottom: 30%
+    width: 100%
+    text-align: center
+    color: white
+    cursor: pointer
+    i
+      font-size: 25px
+      margin: 0 10px
+    p
+      font-size: 25px
