@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/SmartPhone-page/static/css/main.d157bb34.chunk.css",
+    "main.js": "/SmartPhone-page/static/js/main.e9a0b94a.chunk.js",
+    "main.js.map": "/SmartPhone-page/static/js/main.e9a0b94a.chunk.js.map",
+    "runtime-main.js": "/SmartPhone-page/static/js/runtime-main.4588515f.js",
+    "runtime-main.js.map": "/SmartPhone-page/static/js/runtime-main.4588515f.js.map",
+    "static/js/2.e8b03552.chunk.js": "/SmartPhone-page/static/js/2.e8b03552.chunk.js",
+    "static/js/2.e8b03552.chunk.js.map": "/SmartPhone-page/static/js/2.e8b03552.chunk.js.map",
+    "static/js/3.9a2bae64.chunk.js": "/SmartPhone-page/static/js/3.9a2bae64.chunk.js",
+    "static/js/3.9a2bae64.chunk.js.map": "/SmartPhone-page/static/js/3.9a2bae64.chunk.js.map",
+    "index.html": "/SmartPhone-page/index.html",
+    "static/css/main.d157bb34.chunk.css.map": "/SmartPhone-page/static/css/main.d157bb34.chunk.css.map",
+    "static/js/2.e8b03552.chunk.js.LICENSE.txt": "/SmartPhone-page/static/js/2.e8b03552.chunk.js.LICENSE.txt",
+    "static/media/eye.0d7117fd.mp4": "/SmartPhone-page/static/media/eye.0d7117fd.mp4",
+    "static/media/smartphone.10d92122.png": "/SmartPhone-page/static/media/smartphone.10d92122.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4588515f.js",
+    "static/js/2.e8b03552.chunk.js",
+    "static/css/main.d157bb34.chunk.css",
+    "static/js/main.e9a0b94a.chunk.js"
+  ]
+}
