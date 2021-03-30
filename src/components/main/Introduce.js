@@ -1,8 +1,9 @@
-import { useEffect, useState } from 'react'
+import { useEffect, useContext } from 'react'
 import phone from '../../img/smartphone.png'
+import Context from './Context'
 
 const Introduce = () => {
-  const [scroll, setScrollY] = useState(0)
+  const [scrollY, setScrollY] = useContext(Context)
 
   const scrollHandle = () => setScrollY(window.pageYOffset)
 
@@ -14,13 +15,12 @@ const Introduce = () => {
 
   }, [])
 
-  let rot = scroll < 360 ? scroll : 360
-  let translate = scroll < 420 ? scroll : 420
-
+  let rot = scrollY < 360 ? scrollY : 360
+  let translate = scrollY < 420 ? scrollY : 420
 
 
   return (
-    <div className="introduce" style={{ background: `linear-gradient(90deg, rgba(45,40,28,1) 0%, rgba(${51 + scroll * 0.2},${49 + scroll * 0.2},${46 + scroll * 0.2},1) 50%, rgba(45,40,28,1) 100%)` }}>
+    <div className="introduce" style={{ background: `linear-gradient(90deg, rgba(45,40,28,1) 0%, rgba(${51 + scrollY * 0.2},${49 + scrollY * 0.2},${46 + scrollY * 0.2},1) 50%, rgba(45,40,28,1) 100%)` }}>
       <h1>Smartphone X</h1>
       <h2>Finezja wykonania</h2>
       <img src={phone} alt="phone image"
