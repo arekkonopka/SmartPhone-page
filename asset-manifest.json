@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/SmartPhone-page/static/css/main.3aeeac0e.chunk.css",
-    "main.js": "/SmartPhone-page/static/js/main.6a8926ec.chunk.js",
-    "main.js.map": "/SmartPhone-page/static/js/main.6a8926ec.chunk.js.map",
-    "runtime-main.js": "/SmartPhone-page/static/js/runtime-main.4588515f.js",
-    "runtime-main.js.map": "/SmartPhone-page/static/js/runtime-main.4588515f.js.map",
-    "static/js/2.e8b03552.chunk.js": "/SmartPhone-page/static/js/2.e8b03552.chunk.js",
-    "static/js/2.e8b03552.chunk.js.map": "/SmartPhone-page/static/js/2.e8b03552.chunk.js.map",
-    "static/js/3.9a2bae64.chunk.js": "/SmartPhone-page/static/js/3.9a2bae64.chunk.js",
-    "static/js/3.9a2bae64.chunk.js.map": "/SmartPhone-page/static/js/3.9a2bae64.chunk.js.map",
+    "main.css": "/SmartPhone-page/static/css/main.78b0e568.chunk.css",
+    "main.js": "/SmartPhone-page/static/js/main.b67c00db.chunk.js",
+    "main.js.map": "/SmartPhone-page/static/js/main.b67c00db.chunk.js.map",
+    "runtime-main.js": "/SmartPhone-page/static/js/runtime-main.8521430e.js",
+    "runtime-main.js.map": "/SmartPhone-page/static/js/runtime-main.8521430e.js.map",
+    "static/js/2.114837ff.chunk.js": "/SmartPhone-page/static/js/2.114837ff.chunk.js",
+    "static/js/2.114837ff.chunk.js.map": "/SmartPhone-page/static/js/2.114837ff.chunk.js.map",
+    "static/js/3.c4d77d3a.chunk.js": "/SmartPhone-page/static/js/3.c4d77d3a.chunk.js",
+    "static/js/3.c4d77d3a.chunk.js.map": "/SmartPhone-page/static/js/3.c4d77d3a.chunk.js.map",
     "index.html": "/SmartPhone-page/index.html",
-    "static/css/main.3aeeac0e.chunk.css.map": "/SmartPhone-page/static/css/main.3aeeac0e.chunk.css.map",
-    "static/js/2.e8b03552.chunk.js.LICENSE.txt": "/SmartPhone-page/static/js/2.e8b03552.chunk.js.LICENSE.txt",
+    "static/css/main.78b0e568.chunk.css.map": "/SmartPhone-page/static/css/main.78b0e568.chunk.css.map",
+    "static/js/2.114837ff.chunk.js.LICENSE.txt": "/SmartPhone-page/static/js/2.114837ff.chunk.js.LICENSE.txt",
     "static/media/eye.0d7117fd.mp4": "/SmartPhone-page/static/media/eye.0d7117fd.mp4",
     "static/media/office1.1c44fbec.jpg": "/SmartPhone-page/static/media/office1.1c44fbec.jpg",
     "static/media/office2.b3446127.jpg": "/SmartPhone-page/static/media/office2.b3446127.jpg",
     "static/media/smartphone.10d92122.png": "/SmartPhone-page/static/media/smartphone.10d92122.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.4588515f.js",
-    "static/js/2.e8b03552.chunk.js",
-    "static/css/main.3aeeac0e.chunk.css",
-    "static/js/main.6a8926ec.chunk.js"
+    "static/js/runtime-main.8521430e.js",
+    "static/js/2.114837ff.chunk.js",
+    "static/css/main.78b0e568.chunk.css",
+    "static/js/main.b67c00db.chunk.js"
   ]
 }
