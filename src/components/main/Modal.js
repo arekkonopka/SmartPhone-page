@@ -1,4 +1,4 @@
-import { useState, useRef } from 'react'
+import { useRef } from 'react'
 import video from '../../video/eye.mp4'
 
 const Modal = ({ setShowModal, showModal, play, setPlay }) => {
